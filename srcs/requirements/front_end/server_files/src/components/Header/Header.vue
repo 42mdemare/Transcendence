@@ -34,7 +34,7 @@
 				clearUser();
 				console.log("Deconnexion");
 			}
-			else
+			else 
 				console.log("Erreur de connexion");
 		} catch (err) {
 				console.error("Erreur de deconnexion:", err);
